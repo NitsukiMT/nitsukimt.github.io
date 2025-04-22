@@ -8,6 +8,6 @@ function validateLogin() {
     }
 
     // Đăng nhập thành công, chuyển hướng
-    window.location.href = "index1.html";
+    window.location.href = "Home.html";
     return false;
 }
