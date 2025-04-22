@@ -191,7 +191,7 @@ body {
     top: 8%;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 6vw; /* thay vì 50px */
+    font-size: 40px;
     font-weight: 700;
     color: rgba(235, 51, 91, 0.582);
     text-align: center;
